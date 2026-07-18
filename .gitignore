@@ -9,6 +9,8 @@ __pycache__
 # Ignore Build and Dist directory
 build/
 dist/
+electron-dist/
+release/
 **/__pycache__/
 
 # Ignore Generated Packages
